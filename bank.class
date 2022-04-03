@@ -1,4 +1,4 @@
- 4 0   bank   java/lang/Object 	accountno I fname Ljava/lang/String; lname 
+   java/lang/Object 	accountno I fname Ljava/lang/String; lname 
 branchname  address <init> L(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V Code
      ()V	    	     	   	 	   
  	   
