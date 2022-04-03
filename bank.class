@@ -1,26 +1,0 @@
-   java/lang/Object 	accountno I fname Ljava/lang/String; lname 
-branchname  address <init> L(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V Code
-     ()V	    	     	   	 	   
- 	   
-  LineNumberTable LocalVariableTable this Lbank; getAccountno ()I setAccountno (I)V getFname ()Ljava/lang/String; setFname (Ljava/lang/String;)V getLname setLname 
-getBranchname 
-setBranchname 
-getAddress 
-setAddress 
-SourceFile 	bank.java !                     	      
-      
-    
-   
-     ”      *· *µ *,µ *-µ *µ *µ ±            
-  
- 	   
-          >                             	       
-       
-      !     /     *´ ¬                         " #     >     *µ ±       
-                          $ %     /     *´ °                         & '     >     *+µ ±       
-                           ( %     /     *´ °                         ) '     >     *+µ ±       
-    !  "                	    * %     /     *´ °           $              + '     >     *+µ ±       
-    '  (                
-    , %     /     *´ °           *              - '     >     *+µ ±       
-    -  .                
-    .    /
